@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Kelly Austin</title>
+  <title>Kelly Austin's Resume</title>
 </head>
 <body>
-
+  <header>
+    <h1>Work History</h1>
+  </header>
+  <main>
+      <h2>Event Coordinator</h2>
+      <h3>TechShop DC-Arlington</h3>
+  <p>
+    <ul>
+        <li>Plan, organize, delegate, direct, facilitate and execute public, private, and corporate
+events for TechShop</li>
+        <li>Maintain multiple calenders for both quipment and staff</li>
+        <li>Consistantly and effectively communicate with staff and members to ensure optimal execution</li>
+        <li>Maintain inventory of event materials, equipment , and facilities used</li>
+    </ul>
+      <h2>Outreach Coordinator/h2>
+      <h3>TechShop DC-Arlington</h3>
+    <ul>
+        <li>Coordinate local outreach and development of community</li>
+        <li>Keep all staff up to date on latest marketing promotions and details</li>
+        <li>Develop and design shop level marketing materials for events, meetups, community outreach events, presentations, and member events</li>
+    </ul>
+      <h2>Front Desk</h2>
+      <h3>TechShop DC-Arlington</h3>
+    <ul>
+        <li>processing new accounts</li>
+        <li>greeting members</li>
+        <li>organizing schedules</li>
+        <li>managing sales</li>
+        <li>facilitating events (internal/external, educational, and corporate)</li>
+        <li>updating records in a custom CRM</li>
+        <li>processing data across multiple spreadsheets and sources</li>
+        <li>answering phones</li>
+        <li>having working knowledge of shop equipment (CNC vinyl cutter, CNC laser, textiles, woodshop, welding, metal shop, and 3d printing.)</li>
+    </ul>
+      <h2>Intern</h2>
+      <h3>Plum Gallery</h3>
+    <ul>
 </body>
 </html>
